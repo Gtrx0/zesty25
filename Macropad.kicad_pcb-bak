@@ -61,7 +61,7 @@
     (aux_axis_origin 0 0)
     (visible_elements 7FFFF7FF)
     (pcbplotparams
-      (layerselection 0x010fc_80000001)
+      (layerselection 0x010fc_ffffffff)
       (usegerberextensions false)
       (usegerberattributes true)
       (usegerberadvancedattributes false)
@@ -86,7 +86,7 @@
       (mirror false)
       (drillshape 0)
       (scaleselection 1)
-      (outputdirectory "../Gerber/"))
+      (outputdirectory "Gerbers/"))
   )
 
   (net 0 "")
@@ -1038,6 +1038,11 @@
       (net 33 LEDGND))
     (pad "" np_thru_hole circle (at -5.08 0 48.0996) (size 1.7018 1.7018) (drill 1.7018) (layers *.Cu *.Mask))
     (pad "" np_thru_hole circle (at 5.08 0 48.0996) (size 1.7018 1.7018) (drill 1.7018) (layers *.Cu *.Mask))
+    (model ${KIPRJMOD}/3D/cherrymx.wrl
+      (at (xyz 0 0 0))
+      (scale (xyz 1 1 1))
+      (rotate (xyz 0 0 0))
+    )
   )
 
   (module MX_Alps_Hybrid:MX-1U (layer F.Cu) (tedit 59782D32) (tstamp 5A97026C)
@@ -1076,6 +1081,11 @@
       (net 33 LEDGND))
     (pad "" np_thru_hole circle (at -5.08 0 48.0996) (size 1.7018 1.7018) (drill 1.7018) (layers *.Cu *.Mask))
     (pad "" np_thru_hole circle (at 5.08 0 48.0996) (size 1.7018 1.7018) (drill 1.7018) (layers *.Cu *.Mask))
+    (model ${KIPRJMOD}/3D/cherrymx.wrl
+      (at (xyz 0 0 0))
+      (scale (xyz 1 1 1))
+      (rotate (xyz 0 0 0))
+    )
   )
 
   (module MX_Alps_Hybrid:MX-1U (layer F.Cu) (tedit 59782D32) (tstamp 5A970285)
@@ -1114,6 +1124,11 @@
       (net 33 LEDGND))
     (pad "" np_thru_hole circle (at -5.08 0 48.0996) (size 1.7018 1.7018) (drill 1.7018) (layers *.Cu *.Mask))
     (pad "" np_thru_hole circle (at 5.08 0 48.0996) (size 1.7018 1.7018) (drill 1.7018) (layers *.Cu *.Mask))
+    (model ${KIPRJMOD}/3D/cherrymx.wrl
+      (at (xyz 0 0 0))
+      (scale (xyz 1 1 1))
+      (rotate (xyz 0 0 0))
+    )
   )
 
   (module MX_Alps_Hybrid:MX-1U (layer F.Cu) (tedit 59782D32) (tstamp 5A97029E)
@@ -1152,6 +1167,11 @@
       (net 33 LEDGND))
     (pad "" np_thru_hole circle (at -5.08 0 48.0996) (size 1.7018 1.7018) (drill 1.7018) (layers *.Cu *.Mask))
     (pad "" np_thru_hole circle (at 5.08 0 48.0996) (size 1.7018 1.7018) (drill 1.7018) (layers *.Cu *.Mask))
+    (model ${KIPRJMOD}/3D/cherrymx.wrl
+      (at (xyz 0 0 0))
+      (scale (xyz 1 1 1))
+      (rotate (xyz 0 0 0))
+    )
   )
 
   (module MX_Alps_Hybrid:MX-1U (layer F.Cu) (tedit 59782D32) (tstamp 5A9702B7)
@@ -1190,6 +1210,11 @@
       (net 33 LEDGND))
     (pad "" np_thru_hole circle (at -5.08 0 48.0996) (size 1.7018 1.7018) (drill 1.7018) (layers *.Cu *.Mask))
     (pad "" np_thru_hole circle (at 5.08 0 48.0996) (size 1.7018 1.7018) (drill 1.7018) (layers *.Cu *.Mask))
+    (model ${KIPRJMOD}/3D/cherrymx.wrl
+      (at (xyz 0 0 0))
+      (scale (xyz 1 1 1))
+      (rotate (xyz 0 0 0))
+    )
   )
 
   (module MX_Alps_Hybrid:MX-1U (layer F.Cu) (tedit 59782D32) (tstamp 5A9702D0)
@@ -1228,6 +1253,11 @@
       (net 33 LEDGND))
     (pad "" np_thru_hole circle (at -5.08 0 48.0996) (size 1.7018 1.7018) (drill 1.7018) (layers *.Cu *.Mask))
     (pad "" np_thru_hole circle (at 5.08 0 48.0996) (size 1.7018 1.7018) (drill 1.7018) (layers *.Cu *.Mask))
+    (model ${KIPRJMOD}/3D/cherrymx.wrl
+      (at (xyz 0 0 0))
+      (scale (xyz 1 1 1))
+      (rotate (xyz 0 0 0))
+    )
   )
 
   (module MX_Alps_Hybrid:MX-1U (layer F.Cu) (tedit 59782D32) (tstamp 5A9702E9)
@@ -1266,6 +1296,11 @@
       (net 33 LEDGND))
     (pad "" np_thru_hole circle (at -5.08 0 48.0996) (size 1.7018 1.7018) (drill 1.7018) (layers *.Cu *.Mask))
     (pad "" np_thru_hole circle (at 5.08 0 48.0996) (size 1.7018 1.7018) (drill 1.7018) (layers *.Cu *.Mask))
+    (model ${KIPRJMOD}/3D/cherrymx.wrl
+      (at (xyz 0 0 0))
+      (scale (xyz 1 1 1))
+      (rotate (xyz 0 0 0))
+    )
   )
 
   (module MX_Alps_Hybrid:MX-1U (layer F.Cu) (tedit 59782D32) (tstamp 5A970302)
@@ -1304,6 +1339,11 @@
       (net 33 LEDGND))
     (pad "" np_thru_hole circle (at -5.08 0 48.0996) (size 1.7018 1.7018) (drill 1.7018) (layers *.Cu *.Mask))
     (pad "" np_thru_hole circle (at 5.08 0 48.0996) (size 1.7018 1.7018) (drill 1.7018) (layers *.Cu *.Mask))
+    (model ${KIPRJMOD}/3D/cherrymx.wrl
+      (at (xyz 0 0 0))
+      (scale (xyz 1 1 1))
+      (rotate (xyz 0 0 0))
+    )
   )
 
   (module MX_Alps_Hybrid:MX-1U (layer F.Cu) (tedit 59782D32) (tstamp 5A97031B)
@@ -1342,6 +1382,11 @@
       (net 33 LEDGND))
     (pad "" np_thru_hole circle (at -5.08 0 48.0996) (size 1.7018 1.7018) (drill 1.7018) (layers *.Cu *.Mask))
     (pad "" np_thru_hole circle (at 5.08 0 48.0996) (size 1.7018 1.7018) (drill 1.7018) (layers *.Cu *.Mask))
+    (model ${KIPRJMOD}/3D/cherrymx.wrl
+      (at (xyz 0 0 0))
+      (scale (xyz 1 1 1))
+      (rotate (xyz 0 0 0))
+    )
   )
 
   (module MX_Alps_Hybrid:MX-1U (layer F.Cu) (tedit 59782D32) (tstamp 5A970334)
@@ -1380,6 +1425,11 @@
       (net 33 LEDGND))
     (pad "" np_thru_hole circle (at -5.08 0 48.0996) (size 1.7018 1.7018) (drill 1.7018) (layers *.Cu *.Mask))
     (pad "" np_thru_hole circle (at 5.08 0 48.0996) (size 1.7018 1.7018) (drill 1.7018) (layers *.Cu *.Mask))
+    (model ${KIPRJMOD}/3D/cherrymx.wrl
+      (at (xyz 0 0 0))
+      (scale (xyz 1 1 1))
+      (rotate (xyz 0 0 0))
+    )
   )
 
   (module MX_Alps_Hybrid:MX-1U (layer F.Cu) (tedit 5A9AB56D) (tstamp 5A97034D)
@@ -1418,6 +1468,11 @@
       (net 33 LEDGND))
     (pad "" np_thru_hole circle (at -5.08 0 48.0996) (size 1.7018 1.7018) (drill 1.7018) (layers *.Cu *.Mask))
     (pad "" np_thru_hole circle (at 5.08 0 48.0996) (size 1.7018 1.7018) (drill 1.7018) (layers *.Cu *.Mask))
+    (model ${KIPRJMOD}/3D/cherrymx.wrl
+      (at (xyz 0 0 0))
+      (scale (xyz 1 1 1))
+      (rotate (xyz 0 0 0))
+    )
   )
 
   (module MX_Alps_Hybrid:MX-1U (layer F.Cu) (tedit 59782D32) (tstamp 5A970366)
@@ -1456,6 +1511,11 @@
       (net 33 LEDGND))
     (pad "" np_thru_hole circle (at -5.08 0 48.0996) (size 1.7018 1.7018) (drill 1.7018) (layers *.Cu *.Mask))
     (pad "" np_thru_hole circle (at 5.08 0 48.0996) (size 1.7018 1.7018) (drill 1.7018) (layers *.Cu *.Mask))
+    (model ${KIPRJMOD}/3D/cherrymx.wrl
+      (at (xyz 0 0 0))
+      (scale (xyz 1 1 1))
+      (rotate (xyz 0 0 0))
+    )
   )
 
   (module MX_Alps_Hybrid:MX-1U (layer F.Cu) (tedit 59782D32) (tstamp 5A97037F)
@@ -1494,6 +1554,11 @@
       (net 33 LEDGND))
     (pad "" np_thru_hole circle (at -5.08 0 48.0996) (size 1.7018 1.7018) (drill 1.7018) (layers *.Cu *.Mask))
     (pad "" np_thru_hole circle (at 5.08 0 48.0996) (size 1.7018 1.7018) (drill 1.7018) (layers *.Cu *.Mask))
+    (model ${KIPRJMOD}/3D/cherrymx.wrl
+      (at (xyz 0 0 0))
+      (scale (xyz 1 1 1))
+      (rotate (xyz 0 0 0))
+    )
   )
 
   (module MX_Alps_Hybrid:MX-1U (layer F.Cu) (tedit 59782D32) (tstamp 5A970398)
@@ -1532,6 +1597,11 @@
       (net 33 LEDGND))
     (pad "" np_thru_hole circle (at -5.08 0 48.0996) (size 1.7018 1.7018) (drill 1.7018) (layers *.Cu *.Mask))
     (pad "" np_thru_hole circle (at 5.08 0 48.0996) (size 1.7018 1.7018) (drill 1.7018) (layers *.Cu *.Mask))
+    (model ${KIPRJMOD}/3D/cherrymx.wrl
+      (at (xyz 0 0 0))
+      (scale (xyz 1 1 1))
+      (rotate (xyz 0 0 0))
+    )
   )
 
   (module MX_Alps_Hybrid:MX-1U (layer F.Cu) (tedit 59782D32) (tstamp 5A9703B1)
@@ -1570,6 +1640,11 @@
       (net 33 LEDGND))
     (pad "" np_thru_hole circle (at -5.08 0 48.0996) (size 1.7018 1.7018) (drill 1.7018) (layers *.Cu *.Mask))
     (pad "" np_thru_hole circle (at 5.08 0 48.0996) (size 1.7018 1.7018) (drill 1.7018) (layers *.Cu *.Mask))
+    (model ${KIPRJMOD}/3D/cherrymx.wrl
+      (at (xyz 0 0 0))
+      (scale (xyz 1 1 1))
+      (rotate (xyz 0 0 0))
+    )
   )
 
   (module MX_Alps_Hybrid:MX-1U (layer F.Cu) (tedit 59782D32) (tstamp 5A9703CA)
@@ -1608,6 +1683,11 @@
       (net 33 LEDGND))
     (pad "" np_thru_hole circle (at -5.08 0 48.0996) (size 1.7018 1.7018) (drill 1.7018) (layers *.Cu *.Mask))
     (pad "" np_thru_hole circle (at 5.08 0 48.0996) (size 1.7018 1.7018) (drill 1.7018) (layers *.Cu *.Mask))
+    (model ${KIPRJMOD}/3D/cherrymx.wrl
+      (at (xyz 0 0 0))
+      (scale (xyz 1 1 1))
+      (rotate (xyz 0 0 0))
+    )
   )
 
   (module MX_Alps_Hybrid:MX-1U (layer F.Cu) (tedit 59782D32) (tstamp 5A9703E3)
@@ -1646,6 +1726,11 @@
       (net 33 LEDGND))
     (pad "" np_thru_hole circle (at -5.08 0 48.0996) (size 1.7018 1.7018) (drill 1.7018) (layers *.Cu *.Mask))
     (pad "" np_thru_hole circle (at 5.08 0 48.0996) (size 1.7018 1.7018) (drill 1.7018) (layers *.Cu *.Mask))
+    (model ${KIPRJMOD}/3D/cherrymx.wrl
+      (at (xyz 0 0 0))
+      (scale (xyz 1 1 1))
+      (rotate (xyz 0 0 0))
+    )
   )
 
   (module MX_Alps_Hybrid:MX-1U (layer F.Cu) (tedit 59782D32) (tstamp 5A9703FC)
@@ -1684,6 +1769,11 @@
       (net 33 LEDGND))
     (pad "" np_thru_hole circle (at -5.08 0 48.0996) (size 1.7018 1.7018) (drill 1.7018) (layers *.Cu *.Mask))
     (pad "" np_thru_hole circle (at 5.08 0 48.0996) (size 1.7018 1.7018) (drill 1.7018) (layers *.Cu *.Mask))
+    (model ${KIPRJMOD}/3D/cherrymx.wrl
+      (at (xyz 0 0 0))
+      (scale (xyz 1 1 1))
+      (rotate (xyz 0 0 0))
+    )
   )
 
   (module MX_Alps_Hybrid:MX-1U (layer F.Cu) (tedit 59782D32) (tstamp 5A970415)
@@ -1722,6 +1812,11 @@
       (net 33 LEDGND))
     (pad "" np_thru_hole circle (at -5.08 0 48.0996) (size 1.7018 1.7018) (drill 1.7018) (layers *.Cu *.Mask))
     (pad "" np_thru_hole circle (at 5.08 0 48.0996) (size 1.7018 1.7018) (drill 1.7018) (layers *.Cu *.Mask))
+    (model ${KIPRJMOD}/3D/cherrymx.wrl
+      (at (xyz 0 0 0))
+      (scale (xyz 1 1 1))
+      (rotate (xyz 0 0 0))
+    )
   )
 
   (module MX_Alps_Hybrid:MX-1U (layer F.Cu) (tedit 59782D32) (tstamp 5A97042E)
@@ -1760,6 +1855,11 @@
       (net 33 LEDGND))
     (pad "" np_thru_hole circle (at -5.08 0 48.0996) (size 1.7018 1.7018) (drill 1.7018) (layers *.Cu *.Mask))
     (pad "" np_thru_hole circle (at 5.08 0 48.0996) (size 1.7018 1.7018) (drill 1.7018) (layers *.Cu *.Mask))
+    (model ${KIPRJMOD}/3D/cherrymx.wrl
+      (at (xyz 0 0 0))
+      (scale (xyz 1 1 1))
+      (rotate (xyz 0 0 0))
+    )
   )
 
   (module MX_Alps_Hybrid:MX-1U (layer F.Cu) (tedit 59782D32) (tstamp 5A970447)
@@ -1798,6 +1898,11 @@
       (net 33 LEDGND))
     (pad "" np_thru_hole circle (at -5.08 0 48.0996) (size 1.7018 1.7018) (drill 1.7018) (layers *.Cu *.Mask))
     (pad "" np_thru_hole circle (at 5.08 0 48.0996) (size 1.7018 1.7018) (drill 1.7018) (layers *.Cu *.Mask))
+    (model ${KIPRJMOD}/3D/cherrymx.wrl
+      (at (xyz 0 0 0))
+      (scale (xyz 1 1 1))
+      (rotate (xyz 0 0 0))
+    )
   )
 
   (module MX_Alps_Hybrid:MX-1U (layer F.Cu) (tedit 59782D32) (tstamp 5A970460)
@@ -1836,6 +1941,11 @@
       (net 33 LEDGND))
     (pad "" np_thru_hole circle (at -5.08 0 48.0996) (size 1.7018 1.7018) (drill 1.7018) (layers *.Cu *.Mask))
     (pad "" np_thru_hole circle (at 5.08 0 48.0996) (size 1.7018 1.7018) (drill 1.7018) (layers *.Cu *.Mask))
+    (model ${KIPRJMOD}/3D/cherrymx.wrl
+      (at (xyz 0 0 0))
+      (scale (xyz 1 1 1))
+      (rotate (xyz 0 0 0))
+    )
   )
 
   (module MX_Alps_Hybrid:MX-1U (layer F.Cu) (tedit 59782D32) (tstamp 5A970479)
@@ -1874,6 +1984,11 @@
       (net 33 LEDGND))
     (pad "" np_thru_hole circle (at -5.08 0 48.0996) (size 1.7018 1.7018) (drill 1.7018) (layers *.Cu *.Mask))
     (pad "" np_thru_hole circle (at 5.08 0 48.0996) (size 1.7018 1.7018) (drill 1.7018) (layers *.Cu *.Mask))
+    (model ${KIPRJMOD}/3D/cherrymx.wrl
+      (at (xyz 0 0 0))
+      (scale (xyz 1 1 1))
+      (rotate (xyz 0 0 0))
+    )
   )
 
   (module MX_Alps_Hybrid:MX-1U (layer F.Cu) (tedit 59782D32) (tstamp 5A970492)
@@ -1912,6 +2027,11 @@
       (net 33 LEDGND))
     (pad "" np_thru_hole circle (at -5.08 0 48.0996) (size 1.7018 1.7018) (drill 1.7018) (layers *.Cu *.Mask))
     (pad "" np_thru_hole circle (at 5.08 0 48.0996) (size 1.7018 1.7018) (drill 1.7018) (layers *.Cu *.Mask))
+    (model ${KIPRJMOD}/3D/cherrymx.wrl
+      (at (xyz 0 0 0))
+      (scale (xyz 1 1 1))
+      (rotate (xyz 0 0 0))
+    )
   )
 
   (module MX_Alps_Hybrid:MX-1U (layer F.Cu) (tedit 59782D32) (tstamp 5A9704AB)
@@ -1950,6 +2070,11 @@
       (net 33 LEDGND))
     (pad "" np_thru_hole circle (at -5.08 0 48.0996) (size 1.7018 1.7018) (drill 1.7018) (layers *.Cu *.Mask))
     (pad "" np_thru_hole circle (at 5.08 0 48.0996) (size 1.7018 1.7018) (drill 1.7018) (layers *.Cu *.Mask))
+    (model ${KIPRJMOD}/3D/cherrymx.wrl
+      (at (xyz 0 0 0))
+      (scale (xyz 1 1 1))
+      (rotate (xyz 0 0 0))
+    )
   )
 
   (module Resistors_THT:R_Axial_DIN0204_L3.6mm_D1.6mm_P7.62mm_Horizontal (layer B.Cu) (tedit 5A9A8273) (tstamp 5A9704C1)
@@ -3033,6 +3158,11 @@
       (net 1 GND))
     (pad 4 smd rect (at 1.65 -2.4 270) (size 1.4 1.8) (layers B.Cu B.Paste B.Mask)
       (net 65 RGBIN))
+    (model ${KIPRJMOD}/3D/WS2812_RGB_LED_updated.stp
+      (at (xyz 0 0 0))
+      (scale (xyz 1 1 1))
+      (rotate (xyz 0 0 0))
+    )
   )
 
   (module WS2812B:WS2812B (layer B.Cu) (tedit 53BEE615) (tstamp 5A97074F)
@@ -3085,6 +3215,11 @@
       (net 1 GND))
     (pad 4 smd rect (at 1.65 -2.4 90) (size 1.4 1.8) (layers B.Cu B.Paste B.Mask)
       (net 64 "Net-(RGB1-Pad2)"))
+    (model ${KIPRJMOD}/3D/WS2812_RGB_LED_updated.stp
+      (at (xyz 0 0 0))
+      (scale (xyz 1 1 1))
+      (rotate (xyz 0 0 0))
+    )
   )
 
   (module WS2812B:WS2812B (layer B.Cu) (tedit 53BEE615) (tstamp 5A970778)
@@ -3137,6 +3272,11 @@
       (net 1 GND))
     (pad 4 smd rect (at 1.65 -2.4 90) (size 1.4 1.8) (layers B.Cu B.Paste B.Mask)
       (net 66 "Net-(RGB2-Pad2)"))
+    (model ${KIPRJMOD}/3D/WS2812_RGB_LED_updated.stp
+      (at (xyz 0 0 0))
+      (scale (xyz 1 1 1))
+      (rotate (xyz 0 0 0))
+    )
   )
 
   (module WS2812B:WS2812B (layer B.Cu) (tedit 53BEE615) (tstamp 5A9707A1)
@@ -3189,6 +3329,11 @@
       (net 1 GND))
     (pad 4 smd rect (at 1.65 -2.4 270) (size 1.4 1.8) (layers B.Cu B.Paste B.Mask)
       (net 67 "Net-(RGB3-Pad2)"))
+    (model ${KIPRJMOD}/3D/WS2812_RGB_LED_updated.stp
+      (at (xyz 0 0 0))
+      (scale (xyz 1 1 1))
+      (rotate (xyz 0 0 0))
+    )
   )
 
   (module Resistors_THT:R_Axial_DIN0204_L3.6mm_D1.6mm_P7.62mm_Horizontal (layer B.Cu) (tedit 5A99CFEC) (tstamp 5A9707B7)
@@ -3292,6 +3437,11 @@
       (net 1 GND))
     (pad 13 thru_hole circle (at -13.97 7.62 270) (size 1.7526 1.7526) (drill 1.0922) (layers *.Cu *.SilkS *.Mask)
       (net 74 RAW))
+    (model "${KIPRJMOD}/3D/ARDUINO PRO MICRO.STEP"
+      (offset (xyz -14 -7.6 4))
+      (scale (xyz 1 1 1))
+      (rotate (xyz -90 0 0))
+    )
   )
 
   (module MX_Alps_Hybrid:screwhole (layer F.Cu) (tedit 59F4E836) (tstamp 5A977C5B)
@@ -4400,7 +4550,7 @@
   (segment (start 56.388 21.082) (end 56.642 21.336) (width 0.25) (layer B.Cu) (net 73) (tstamp 5AA119C7))
   (segment (start 58.039 26.416) (end 58.42 26.035) (width 0.25) (layer F.Cu) (net 73) (tstamp 5AA119D4) (status 30))
 
-  (zone (net 1) (net_name GND) (layer F.Cu) (tstamp 5A9EE656) (hatch edge 0.508)
+  (zone (net 1) (net_name GND) (layer F.Cu) (tstamp 5B8082C1) (hatch edge 0.508)
     (connect_pads (clearance 0.508))
     (min_thickness 0.254)
     (fill yes (arc_segments 16) (thermal_gap 0.508) (thermal_bridge_width 0.508))
@@ -5840,7 +5990,7 @@
       )
     )
   )
-  (zone (net 1) (net_name GND) (layer B.Cu) (tstamp 5A9EE656) (hatch edge 0.508)
+  (zone (net 1) (net_name GND) (layer B.Cu) (tstamp 5B8082BE) (hatch edge 0.508)
     (connect_pads (clearance 0.508))
     (min_thickness 0.254)
     (fill yes (arc_segments 16) (thermal_gap 0.508) (thermal_bridge_width 0.508))
