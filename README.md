@@ -1,5 +1,5 @@
 # Zesty 25
-5x5 Macropad PCB
+5x5 Macropad PCB with RGB underglow and single color backlight
 ![Frontside Render](https://raw.githubusercontent.com/Gtrx0/zesty25/master/Renders/Frontside_Populated.png)
 ![Frontside Render](https://raw.githubusercontent.com/Gtrx0/zesty25/master/Renders/Frontside_Tilted_Render.png)
 ![Frontside Render](https://raw.githubusercontent.com/Gtrx0/zesty25/master/Renders/Backside_Unpopulated.png)
