@@ -3526,11 +3526,6 @@
       (net 1 GND))
     (pad 2 thru_hole circle (at 2.25 -0.1 180) (size 1.6 1.6) (drill 0.8) (layers *.Cu *.Mask)
       (net 73 RST))
-    (model ${KISYS3DMOD}/Capacitors_THT.3dshapes/CP_Radial_D6.3mm_P2.50mm.wrl
-      (at (xyz 0 0 0))
-      (scale (xyz 1 1 1))
-      (rotate (xyz 0 0 0))
-    )
   )
 
   (gr_text "Rev 1.0" (at 66.548 112.395) (layer B.SilkS)
